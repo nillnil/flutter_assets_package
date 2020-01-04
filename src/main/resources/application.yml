@@ -1,0 +1,10 @@
+assets:
+  source: /Users/cheng/Desktop/music/网易云音乐 6_5_2_ipa
+  target: assets/images
+  overcover: true
+  store-yaml: true
+  ignore-onex: true
+  yaml-path: pubspec.yaml
+logging:
+  file:
+    name: ./logs/assets.log
